@@ -9,7 +9,7 @@ permalink:        pretty
 title:            'Jacob N. Oppenheim'
 tagline:          'PhD'
 description:      'description'
-url:              http://jnoppenheim.github.io
+url:              #http://jnoppenheim.github.io
 
 author:
   name:           'Jaocb Oppenheim'
