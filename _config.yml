@@ -1,6 +1,6 @@
 # Dependencies
 markdown:         redcarpet
-pygments:         true
+highlighter:         true
 
 # Permalinks
 permalink:        pretty
@@ -13,7 +13,7 @@ url:              #http://jnoppenheim.github.io
 
 author:
   name:           'Jaocb Oppenheim'
-  url:            https://jnoppenheim.github.io
+  url:            #https://jnoppenheim.github.io
 
 paginate:         5
 
@@ -23,4 +23,4 @@ version:          2.0.0
 github:
   repo:           https://github.com/jnoppenheim/jnoppenheim.github.io
 
-banner: "/quasicrystal_tile.jpg"
+#banner: "/quasicrystal_tile.jpg"
