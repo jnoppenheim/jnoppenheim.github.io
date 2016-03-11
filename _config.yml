@@ -9,11 +9,11 @@ permalink:        pretty
 title:            'Jacob N. Oppenheim'
 tagline:          'PhD'
 description:      'description'
-url:              http://jacobo.io
+url:              http://jnoppenheim.github.io
 
 author:
-  name:           'Mark Otto'
-  url:            https://twitter.com/mdo
+  name:           'Jaocb Oppenheim'
+  url:            https://jacobo.io
 
 paginate:         5
 
@@ -21,6 +21,6 @@ paginate:         5
 version:          2.0.0
 
 github:
-  repo:           https://github.com/poole/lanyon
+  repo:           https://github.com/jnoppenheim/jnoppenheim.github.io
 
 banner: "/quasicrystal_tile.jpg"
